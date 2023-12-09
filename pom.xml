@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jamie</groupId>
-    <artifactId>starlink</artifactId>
+    <artifactId>piium</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>starlink</name>
+    <name>piium</name>
     <description>Project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
